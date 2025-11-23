@@ -1,1 +1,1 @@
-# Competitive-Programming-Assignment-2
+# Competitive-Programming-Assignment-1&2
